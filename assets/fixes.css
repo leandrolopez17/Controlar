@@ -1,0 +1,62 @@
+video{
+    width: 100%    
+}
+
+#floatbutton {
+    padding: 20px;
+    border-radius: 7px;
+    background-color: royalblue;
+    position: fixed;
+    right: 2%;
+    bottom: 3%;
+    z-index: 10;
+}
+#floatbutton a {
+    color: white;
+}
+.navbar-dropdown .navbar-logo img {
+    height: 5.125rem;
+}
+#menu-0 .link {
+    font-size: 1.15rem;
+}
+#menu-3 .link {
+    font-size: 1.15rem;
+}
+#menu-5 .link {
+    font-size: 1.15rem;
+}
+#menu-6 .link {
+    font-size: 1.15rem;
+}
+#menu-7 .link {
+    font-size: 1.15rem;
+}
+#menu-4 .link {
+    font-size: 1.15rem;
+}
+.btn-social {
+  color: #fff;
+}
+
+.stick {
+    position: inherit;
+}
+
+.border {
+    border-radius: 10%;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: aliceblue;
+}
+
+.navbar-dropdown {
+    position: relative;
+    border-radius: 0px;
+}
